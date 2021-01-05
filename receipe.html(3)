@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+   <meta charset="utf-8"/>
+   <title>My Fav Food</title>
+</head>
+<body>
+ <h1><strong>RECEIPE OF NOODLES</strong></h1>
+<p> I like <em>Noodles</em> because it is very easy to make and ready to eat.
+ .We can make it with less ingredients. 
+.We can make many special varieties.</p>
+<p>With Noodles we can make many varieties such as Egg noodles,Chicken noodles.
+Noodles are the best street foods with less costs.
+By adding sauce,beverges noodles tastes more tasty.
+Noodles Tastes Spicy</p>
+ <strong>Required Ingredients<strong/> </p>
+<ul> 
+<li>noodles</li>
+<li>masala</li>
+<li>water</li>
+<li>eggs</li>
+<!--inner list-->
+  <ul>
+  <li>two</li> 
+ <li>three</li> 
+  </ul>
+<!-- end of inner list-->
+<li>oil</li>
+<li>chilli powder</li>
+<li>salt</li>
+</ul>
+<ol>
+<img src="https://images.pexels.com/photos/2456435/pexels-photo-2456435.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260" alt="noodles"/>
+<!--<img src="https://images.pexels.com/photos/2204771/pexels-photo-2204771.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="noodles"/>-->
+</ol>
+<ol>
+<li>Firstly heat the water and put the noodles🥓 into it😀</li>
+<li>After sometime put these noodles aside</li>
+<li>Then put the oil into the vessel and heat it</li>
+     <!--use the eggs only up to needed quantity not more than that>
+<li>Break the eggs and put them into the oil🥚</li>
+<li>Roast these eggs by adding chill powder and salt into it👨‍🍳👨‍🍳</li>
+    <!--use salt and chill powder as much as needed-->
+<li>After that put the noodles into eggs roast</li>
+<li>Mix them thoroughly by adding masala to it😗</li>
+    <!--until it becomes spicy-->
+<li>So that finally Egg noodles are ready🤤</li>
+</ol>
+<ol>
+<img src="https://images.pexels.com/photos/2204771/pexels-photo-2204771.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="noodles"/>
+</ol>
+<p>MENU</p>
+<ul>
+<li><a href="https://youtu.be/W3puT_mZTvc">Veg Noodles</a></li>
+<li><a href="https://youtu.be/OV0OrwzVTgg">Egg Noodles</a></li>
+<li><a href="https://youtu.be/aQHr9Zsnzbw">Chilli Garlic</a></li>
+<li><a href="https://youtu.be/GtQgXCteMpo">Chinese</a></li>
+<li><a href="https://youtu.be/Rbpby8YObA4">Chicken</a></li>
+</ul>
+</body>
+</html>
